@@ -1,0 +1,9 @@
+yfinance
+matplotlib
+requests
+python-whois
+pandas
+numpy
+paramiko
+pywifi
+comtypes
